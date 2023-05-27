@@ -4,4 +4,4 @@
   engine_version       = "5.7"
   instance_class       = "db.t3.micro"
   username             = "monica"
-  password             = "monicammm"
+  password             = "monicammm"n

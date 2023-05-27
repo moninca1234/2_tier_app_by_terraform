@@ -15,6 +15,6 @@ terraform {
     backend "s3" {
     bucket = "monica-terraform"
     key    = "terraform.tfstate"
-    region = "ap-south-1"
+    region = "ap-south-1"1
   }
 }    

@@ -48,5 +48,5 @@ variable "username"{
     }
 variable "password"{
     description= " rds passwd " 
-    type= string g
+    type= string 
     }

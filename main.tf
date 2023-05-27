@@ -9,5 +9,5 @@ module "tierapp_module"{
   engine_version       = var.engine_version 
   instance_class       = var.instance_class  
   username             = var.username
-  password             = var.password
+  password             = var.passwordd
 }
